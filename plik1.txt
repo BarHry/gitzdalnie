@@ -1,2 +1,3 @@
 Zmiana1
 zmiana w klonie
+zmiana w orginale
